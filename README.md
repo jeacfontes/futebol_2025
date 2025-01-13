@@ -6,14 +6,14 @@ A intencao, alem de desenvolver um orojeto e' principalmente o trabalho em equip
 </br>
 
 <p align="center">
-  <img src="Matches.png" width="550" />
+  <img src="Matches.PNG" width="550" />
 </p>
 
 <p align="center">
 A proposta e' a criacao de dois projetos similares, um no meu perfil e outro no perfil de um segundo desenvolvedor. Faremos a primeira parte de preparacao e limpeza de dados no perfil proprio, e uma segunda etapa de criacao de dashboard e apresentacao dos dados no perfil da outra pessoa.</p>
 
 <p align="center">
-<img src="EloRatings.png" width="300" />
+<img src="EloRatings.PNG" width="300" />
 </p>
 
 O projeto sera' bem simples, com intuito de treinamento e reforco de comandos simples.
