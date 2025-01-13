@@ -4,5 +4,8 @@ import csv
 
 st.set_page_config(layout="wide")
 
-df = pd.read_csv("Matches.csv", sep=",", decimal=".")
-df
+matches = pd.read_csv("Matches.csv", sep=",", decimal=".")
+ratings = pd.read_csv("EloRatings.csv", sep=",", decimal=".")
+
+matches
+ratings
