@@ -2,12 +2,14 @@
 
 <p align="center">
 A ideia desse projeto e' fazer um projeto simples em dupla, para estudo de Python com trabalho remoto em equipe.
-A intencao, alem de desenvolver um orojeto e' principalmente o trabalho em equipe, para desenvolver as habilidades com o Git e o GitHub.
+A intencao, alem de desenvolver um orojeto e' principalmente o trabalho em equipe, para desenvolver as habilidades com o Git e o GitHub.</p>
 </br>
 
 <p align="center">
   <img src="Matches.png" width="550" />
 </p>
+
+<p align="center">
 A proposta e' a criacao de dois projetos similares, um no meu perfil e outro no perfil de um segundo desenvolvedor. Faremos a primeira parte de preparacao e limpeza de dados no perfil proprio, e uma segunda etapa de criacao de dashboard e apresentacao dos dados no perfil da outra pessoa.</p>
 
 <p align="center">
